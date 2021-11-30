@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/BrunoRibeiro147/7fcafa65d4cc727b1c1da6cdd4667a11/raw/77c94cce20e7855e270d83d0315829248d241f99/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/BrunoRibeiro147/7fcafa65d4cc727b1c1da6cdd4667a11/raw/302c842da856b08f471abb0061a75e666beff07c/githubcard.svg"/>
 <h1 align="left">Hey Everyone, I'm Bruno Ribeiro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunoRibeiro147&color=blue" alt="Profile views" /> </p>
 
