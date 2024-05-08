@@ -5,18 +5,18 @@
 
 - 👨‍💻 Software Engineer and Instructor sometimes
 
-- ▶️ My Youtube Channel [https://www.youtube.com/channel/UCIJ2Z056kl1R0QtMLHAsdMQ](https://www.youtube.com/channel/UCIJ2Z056kl1R0QtMLHAsdMQ)
+- ▶️ My [Youtube Channel](https://www.youtube.com/@BrunoRibeiroDev)
 
-- 💬 Ask me about **Elixir, Flutter, TypeScript, React, Dart**
+- 💬 Ask me about **Elixir, Phoenix, LiveView, TypeScript, React**
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
 ![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat&logo=elixir)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Phoenix](https://img.shields.io/badge/-Phoenix-05122A?style=flat&logo=phoenix)&nbsp;
+![LiveView](https://img.shields.io/badge/-LiveView-05122A?style=flat&logo=liveview)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -44,18 +44,3 @@
  <img align="center" src="https://img.shields.io/badge/-Bruno Ribeiro-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
-
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
